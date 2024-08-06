@@ -1230,6 +1230,9 @@ img {
 	.hero-header {
 		line-height: 50px;
 	}
+	figure img {
+		width: 100%;
+	}
 }
 @media (max-width: 768px) {
 	.about-main-inner {
